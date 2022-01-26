@@ -1,0 +1,21 @@
+h2{
+    color: #520000;
+}
+.purple-font {
+    color: purple;
+}
+
+a {
+    background-color: #520000:
+}
+a:hover {
+    background-color: #c50000;
+}
+
+#footer {
+   position:absolute;
+   bottom:0;
+   width:100%;
+   height:60px;   /* Height of the footer */
+   background:#6cf;
+}
